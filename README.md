@@ -1,2 +1,3 @@
 # Adverse Drug Reaction Dataset
-This is the repository linked to our paper "Adverse Drug Reaction Classification in Social Media: A Multi-label Approach", by Julie Durand, Athena Stassopoulou and Ioannis Katakis 
+This is the repository linked to our paper "Adverse Drug Reaction Classification in Social Media: A Multi-label Approach", by Julie Durand, Athena Stassopoulou and Ioannis Katakis.
+The file contains the IDs (post_id) of 537 posts from Reddit manually annotated for mentions of adverse drug reactions (ADRs) mapped to preferred terms of the Medical Dictionary for Regulatory Activities (meddra_pt). The annotations originate from two sources: ADR_EMNLP2019 (https://github.com/mesbahs/ADR_EMNLP) and our own annotations of freshly collected posts ('Additional collection').
